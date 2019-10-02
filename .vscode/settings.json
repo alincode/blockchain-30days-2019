@@ -3,7 +3,9 @@
     "Devcon",
     "Ethereum",
     "Gartner",
+    "Vyper",
     "calldata",
+    "struct",
     "typeof"
   ]
 }
